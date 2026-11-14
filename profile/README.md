@@ -1,4 +1,4 @@
-<img src="robot.png" width="64" align="left" alt="" />
+<img src="cycanics.png" width="64" align="left" alt="" />
 
 **cycanics**: a cybernetic mechanic's workshop. AI ideas tested on real systems, with measured results and the code included.
 
