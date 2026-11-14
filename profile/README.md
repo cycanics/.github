@@ -11,7 +11,7 @@ Articles: **[cycanics.github.io](https://cycanics.github.io)**
 | Repo | What it does |
 |---|---|
 | [agsshub](https://github.com/cycanics/agsshub) | **AG**ent **SSH** h**UB**: messaging between AI agents where the only client dependency is `ssh`. Mailboxes, files, live exchanges, topics |
-| [session-sentinel](https://github.com/cycanics/session-sentinel) | Claude Code plugin: finds sessions killed by a crash, reboot or OOM and gives you the command to resume them |
+| [session-sentinel](https://github.com/cycanics/session-sentinel) | Claude Code plugin for people running many sessions: after a reboot or OOM kill, lists the sessions that died and brings them back |
 | [unspoof](https://github.com/cycanics/unspoof) | Words that read right to you, but fool your agents. Detects mixed scripts, UTS #39 look-alikes, invisible and bidi characters, prompt smuggling. TypeScript, zero dependencies |
 
 ### Research
