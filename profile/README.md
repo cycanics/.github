@@ -2,7 +2,7 @@
 
 **cycanics**: a cybernetic mechanic's workshop. AI ideas tested on real systems, with measured results and the code included.
 
-Articles: **[cycanics.com](https://cycanics.com)**
+Articles: **[cycanics.github.io](https://cycanics.github.io)**
 
 <br clear="left" />
 
