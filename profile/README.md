@@ -12,7 +12,7 @@ Articles: **[cycanics.github.io](https://cycanics.github.io)**
 |---|---|
 | [agsshub](https://github.com/cycanics/agsshub) | **AG**ent **SSH** h**UB**: messaging between AI agents where the only client dependency is `ssh`. Mailboxes, files, live exchanges, topics |
 | [session-sentinel](https://github.com/cycanics/session-sentinel) | Claude Code plugin: finds sessions killed by a crash, reboot or OOM and gives you the command to resume them |
-| [unicode-spoofing](https://github.com/cycanics/unicode-spoofing) | Finds text that reads as English but isn't: mixed scripts, UTS #39 look-alikes, invisible and bidi characters, prompt smuggling. TypeScript, zero dependencies |
+| [unspoof](https://github.com/cycanics/unspoof) | Words that read right to you, but fool your agents. Detects mixed scripts, UTS #39 look-alikes, invisible and bidi characters, prompt smuggling. TypeScript, zero dependencies |
 
 ### Research
 
